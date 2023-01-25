@@ -1,4 +1,4 @@
-# Meer bewustzijn voor het vrijgeven van data doormiddel van Midjourney AI
+# Meer bewustzijn voor het te snel vrijgeven van data doormiddel van Midjourney AI
 **Inleiding**
 
 Onze telefoons zijn tegenwoordig onmisbare hulpmiddelen in ons dagelijks leven. We gebruiken ze voor communicatie, navigatie, sociale media en nog veel meer. Door deze groeiende afhankelijkheid van onze telefoons, zijn ze echter ook een grote bron van informatie voor grote platformen zoals Facebook en Google. Deze platformen verzamelen vaak veel gegevens over ons, zoals onze locatie, zoekopdrachten en gesprekken, om zo hun advertenties en diensten te personaliseren. 
