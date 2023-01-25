@@ -11,12 +11,13 @@ Daarnaast is het ook belangrijk dat we grote platformen aanspreken op hun verant
 
 In samenvatting, ik geloof dat we als maatschappij meer bewustzijn moeten creëren over onze privé-gegevens en hoe grote platformen die gebruiken, en daarnaast, we moeten grote platformen in de gaten houden en ons best doen om onze privacy te beschermen, zowel individueel als collectief.
 
-Midjourney AI is een technologie die gegenereerde afbeeldingen kan creëren, die gebruikt kunnen worden om meer bewustzijn te creëren over verschillende onderwerpen. Dit kan bijvoorbeeld gebruikt worden om inzicht te geven in de gevolgen van de verzameling van persoonlijke gegevens door grote platformen zoals Facebook en Google. Door middel van deze afbeeldingen kan duidelijk worden gemaakt hoe onze privacy kan worden geschonden en hoe we ons hiertegen kunnen beschermen.
+Midjourney AI is een technologie die gegenereerde afbeeldingen kan creëren, die gebruikt kunnen worden om meer bewustzijn te creëren over verschillende onderwerpen. Dit kan bijvoorbeeld gebruikt worden om inzicht te geven in de gevolgen van de verzameling van persoonlijke gegevens door grote platformen zoals Facebook en Google. Door middel van deze afbeeldingen kan duidelijk worden gemaakt hoe onze privacy kan worden geschonden en hoe we ons hiertegen kunnen beschermen. Uit onderzoek is gebleken dat Facebook absoluut niet afluisterd, maar dat ze wel je microfoon op verschillende momenten kunnen inzetten om een dienst te kunnen verlenen. Dat zou betekenen dat Facebook op ieder moment ervoor kan kiezen om het microfoon aan te zetten. Volgens een Advertentie specialist die ik heb gesproken zou het aluisteren voor Facebook een groot schandaal en daarnaast een risico zijn. Die risico zou Facebook niet zo snel nemen. Uit het recente schandaal van Apple blijkt dat grote platformen soms misbruik maken van hun macht. Zo blijkt dat Apple je trackt terwijl je in hun eigen privacy instellingen het geweigerd hebt. Dit is reden genoeg om zowel grote als kleine platformen in de gaten te houden en mensen meer bewust te maken van de data die ze weggeven. 
 
 Ik geloof dat Midjourney AI een krachtig hulpmiddel kan zijn om meer bewustzijn te creëren over de kwestie van privé-gegevens en hoe grote platformen deze gebruiken. De afbeeldingen zijn gemakkelijk te begrijpen en kunnen worden gedeeld via sociale media of andere online platforms. Hierdoor kan het onderwerp een breder publiek bereiken en kan er meer discussie ontstaan over de kwestie.
 Daarnaast kan Midjourney AI ook worden gebruikt voor educatieve doeleinden, zoals het uitleggen van hoe internettechnologie werkt of hoe we onze privacy kunnen beschermen. Dit kan bijdragen aan een groter begrip van het onderwerp en kan ertoe leiden dat mensen beter geïnformeerde beslissingen nemen over hun internetgebruik.
 
 In samenvatting, ik geloof dat Midjourney AI een krachtig hulpmiddel is om meer bewustzijn te creëren over de kwestie van privé-gegevens en hoe grote platformen deze gebruiken. Door middel van gegenereerde afbeeldingen kan de informatie makkelijk worden begrepen en gedeeld, en kan het onderwerp een breder publiek bereiken en leiden tot meer discussie en begrip. Vandaar dat ik hieronder in het kort probeer uit te leggen hoe je zelf gebruik kunt maken van Midjourney AI ook een bijdrage te kunnen leveren aan het creëren van meer bewustzijn. 
+
 
 **Wat kan Midjourney AI?**
 
@@ -31,10 +32,11 @@ Met de Midjourney AI kunst generator kun je een aantal dingen doen, afhankelijk 
 •	Videogames: De kunst generator kan worden gebruikt om unieke afbeeldingen of video's te creëren voor videogames. Zo kan de AI bijvoorbeeld unieke omgevingen, personages of objecten creëren.
 •	Advertenties: De kunst generator kan worden gebruikt om unieke beelden of video's te creëren voor reclamecampagnes. Zo kan de AI bijvoorbeeld een unieke afbeelding of video creëren die past bij de stijl of boodschap van de campagne.
 
- 
+
 **Hoe krijg ik toegang tot Midjourney AI?**
 
 Je kunt toegang krijgen tot het Midjourney Bot via de volgende link die leidt naar hun eigen Discord servers (https://discord.gg/midjourney). Het is daarnaast ook mogelijk om het Bot uit te nodigen in je eigen community servers door de instructies te volgen op de volgende pagina (https://midjourney.gitbook.io/docs/use-midjourney-on-your-own-discord-server). 
+
 
 **Welke stappen moet ik volgen om een prompt te schrijven?**
 
@@ -48,6 +50,7 @@ Voor het schrijven van een prompt moet je de volgende stappen nemen:
 5.	Schrijf vervolgens in je prompt de instructies voor je prompt
 6.	Klik op enter als je klaar bent met het schrijven van je prompt
 7.	Wacht totdat het Bot klaar is met je request 
+
 
 **Hoe schrijf ik het best een prompt voor Midjourney AI?**
 
@@ -76,6 +79,7 @@ Hier zijn enkele voorbeelden van prompts die je kunt gebruiken voor Midjourney A
 6.	Create a 15-second animation of a cat in a cartoon style: "Create a 15-second animation of a cat in a cartoon style"
 7.	Create a 1080p image of a sunset: "Create a 1080p image of a sunset"
 8.	Based on this photo https://s.mj.run/1SzgRHSNCK4 and this photo https://s.mj.run/sytanZK-V60 in a semi realistic pixar style cosy cottagecore portrait of this woman wearing white tshirt, dark blue blazer, dark blue jeans, and a dark red scarf. She has brown eyes, brown hair with a hint of red, wears a slightly tinted lipstick. She looks happy and relaxed and is slightly smiling. She is seating in a reading nook surrounded by books, reading a book with a mug of hot tea. two minilop rabbits, one dark brown and one white at her feet.
+
 
 **Showcases**
 
